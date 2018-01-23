@@ -1,10 +1,10 @@
 # gitlab
 
-##Team
-*Alex
-*Bob
-*Madison
-*Yanni
-*Ziggy
+## Team
+* Alex
+* Bob
+* Madison
+* Yanni
+* Ziggy
 ## Clients
 * Mei
